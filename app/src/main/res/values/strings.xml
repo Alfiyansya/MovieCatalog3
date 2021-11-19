@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MovieCatalog3</string>
+    <string name="app_name_" tools:ignore="Typos">MovieCatalog</string>
+    <string name="favorite_text" tools:ignore="Typos">FavoriteCatalog</string>
+    <string name="detail" tools:ignore="Typos">Detail</string>
+    <string name="movie_text">Now Playing</string>
+    <string name="ic_logo">logo</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TvShow</string>
+    <string name="poster">Poster</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Overview</string>
+    <string name="tab_layout">tabLayout</string>
+    <string name="detail_poster">Detail Poster</string>
+    <string name="terjadi_kesalahan">Terjadi Kesalahan</string>
+    <string name="no_internet_connection">Tidak ada koneksi internet</string>
+    <string name="text_rating">9.0</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="favorite">Favorite</string>
+    <string name="best_vote">Best Vote</string>
+    <string name="worst_vote">Worst Vote</string>
+    <string name="random">Random Vote</string>
+    <string name="detail_image">detail_image</string>
+    <string name="imagefontshadow">imageFontShadow</string>
+</resources>
